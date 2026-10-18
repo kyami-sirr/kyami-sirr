@@ -1,3 +1,5 @@
+<!-- Ganti kyami-sirr dengan username GitHub kamu -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Yasir%20Assafa&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Robotics%20Engineer%20%7C%20ROS2%20%7C%20SLAM&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
@@ -8,9 +10,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Pengunjung&color=2c5364&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/USERNAME?label=Total%20Stars&style=for-the-badge&color=2c5364&logo=github" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=kyami-sirr&label=Pengunjung&color=2c5364&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/kyami-sirr?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/kyami-sirr?label=Total%20Stars&style=for-the-badge&color=2c5364&logo=github" alt="stars" />
 
 </div>
 
@@ -38,9 +40,9 @@ Saya Muhammad Yasir Assafa. Saat ini saya membangun robot berbasis ROS2 dengan a
 
 ### Kontak
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/kyami-sirr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://instagram.com/kyami-sirr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </td>
 </tr>
@@ -80,12 +82,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kyami-sirr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyami-sirr&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=kyami-sirr&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Grafik%20Aktivitas%20GitHub" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyami-sirr&theme=tokyo-night&hide_border=true&area=true&custom_title=Grafik%20Aktivitas%20GitHub" alt="activity graph" />
 
 </div>
 
@@ -100,11 +102,11 @@ flowchart LR
 <!-- Ganti REPO-1 sampai REPO-4 dengan nama repo kamu -->
 <div align="center">
 
-<a href="https://github.com/USERNAME/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true" alt="repo 1" /></a>
-<a href="https://github.com/USERNAME/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-2&theme=tokyonight&hide_border=true" alt="repo 2" /></a>
+<a href="https://github.com/kyami-sirr/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-1&theme=tokyonight&hide_border=true" alt="repo 1" /></a>
+<a href="https://github.com/kyami-sirr/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-2&theme=tokyonight&hide_border=true" alt="repo 2" /></a>
 
-<a href="https://github.com/USERNAME/REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-3&theme=tokyonight&hide_border=true" alt="repo 3" /></a>
-<a href="https://github.com/USERNAME/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO-4&theme=tokyonight&hide_border=true" alt="repo 4" /></a>
+<a href="https://github.com/kyami-sirr/REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-3&theme=tokyonight&hide_border=true" alt="repo 3" /></a>
+<a href="https://github.com/kyami-sirr/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-4&theme=tokyonight&hide_border=true" alt="repo 4" /></a>
 
 </div>
 
@@ -114,14 +116,14 @@ flowchart LR
 
 <!-- Butuh workflow snake.yml, kalau tidak dipakai hapus bagian ini -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyami-sirr/kyami-sirr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyami-sirr/kyami-sirr/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kyami-sirr/kyami-sirr/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kyami-sirr&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
 
 </div>
 
