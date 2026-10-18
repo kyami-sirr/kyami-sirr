@@ -1,0 +1,18 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   
+  workflow_dispatch:        
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 6
+          COMMIT_MSG: "Update aktivitas terbaru"
