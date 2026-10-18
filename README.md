@@ -1,5 +1,3 @@
-<!-- Ganti kyami-sirr dengan username GitHub kamu -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Muhammad%20Yasir%20Assafa&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Robotics%20Engineer%20%7C%20ROS2%20%7C%20SLAM&descAlignY=62&descSize=18&animation=fadeIn" alt="header" />
@@ -96,19 +94,6 @@ flowchart LR
 <!-- Bagian ini diisi otomatis oleh workflow activity.yml -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-## Repositori Pilihan
-
-<!-- Ganti REPO-1 sampai REPO-4 dengan nama repo kamu -->
-<div align="center">
-
-<a href="https://github.com/kyami-sirr/REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-1&theme=tokyonight&hide_border=true" alt="repo 1" /></a>
-<a href="https://github.com/kyami-sirr/REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-2&theme=tokyonight&hide_border=true" alt="repo 2" /></a>
-
-<a href="https://github.com/kyami-sirr/REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-3&theme=tokyonight&hide_border=true" alt="repo 3" /></a>
-<a href="https://github.com/kyami-sirr/REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kyami-sirr&repo=REPO-4&theme=tokyonight&hide_border=true" alt="repo 4" /></a>
-
-</div>
 
 ## Kontribusi
 
